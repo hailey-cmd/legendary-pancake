@@ -1,0 +1,25 @@
+h1{
+    color:rgb(122, 98, 98);
+   font-family: Impact, Charcoal, sans-serif;
+}
+h2{
+    color:rgb(94, 32, 32);
+    font-family: 'Brush Script MT', cursive;
+}
+p{
+    color:red;
+    font-family: Helvetica, Arial, sans-serif;
+}
+body{
+    background-image: linear-gradient(to bottom left, rgb(158, 58, 88), pink);
+    border-style: dotted;
+    border-color:purple;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+li{
+    color:red;
+    font-family: Helvetica, Arial, sans-serif;
+}
